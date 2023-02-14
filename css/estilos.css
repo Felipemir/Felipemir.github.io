@@ -1,0 +1,11 @@
+body{
+   background: #1E90FF;
+}
+.branco{
+    color: white;
+    width: 600px;
+    text-align: center;
+}
+#rodapé{
+    text-align: justify;
+}
