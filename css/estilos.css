@@ -1,10 +1,10 @@
 body{
-   background: #1E90FF;
+   background-color: bisque;
 }
 .branco{
-    color: white;
+    color: balck;
     width: 600px;
-    text-align: center;
+    text-align: justify;
 }
 #rodapé{
     text-align: justify;
