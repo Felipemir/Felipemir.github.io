@@ -2,10 +2,22 @@ body{
    background-color: bisque;
 }
 .branco{
-    color: balck;
+    color: black;
     width: 600px;
     text-align: justify;
 }
-#rodapé{
-    text-align: justify;
+section{
+    margin: 25px left;
+    width: 35px;
+    height: 35px;
+}
+.social{
+    width:35px;
+    height:55px;
+}
+.icone{
+    width: 40px;
+}
+.icone:hover{
+    cursor: pointer;
 }
