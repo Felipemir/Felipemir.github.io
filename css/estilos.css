@@ -1,11 +1,29 @@
+*{
+    box-sizing: border-box;
+}
 body{
-   background-color: bisque;
+    background: #8C3A4B;
 }
-.branco{
-    color: balck;
-    width: 600px;
-    text-align: justify;
+.principal{
+    width: 520px;
+    height: 800px;
+    margin: 2% auto;
+    padding: 5px;
 }
-#rodapé{
-    text-align: justify;
+.principal img{
+    border-radius: 50%;
+    width: 340px;
+}
+
+.principal p{
+    font-size: 20px;
+}
+ul{
+    list-style-type: square;
+    font-size: 18px;
+}
+
+ul li{
+    width: 250px;
+    height: 30px;
 }
